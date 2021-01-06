@@ -1,6 +1,7 @@
 # Jsonify
 
 Posnet based classification
+This model detects various poses like sitting standing or falling down.
 
 ## Getting Ready
 1. Make sure you have the 64-bit python 3.8.x or greater
